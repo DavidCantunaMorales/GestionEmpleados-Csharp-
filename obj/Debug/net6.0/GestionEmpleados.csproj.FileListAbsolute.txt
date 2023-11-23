@@ -1,0 +1,15 @@
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.csproj.AssemblyReference.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.AssemblyInfoInputs.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.AssemblyInfo.cs
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\bin\Debug\net6.0\GestionEmpleados.exe
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\bin\Debug\net6.0\GestionEmpleados.deps.json
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\bin\Debug\net6.0\GestionEmpleados.runtimeconfig.json
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\bin\Debug\net6.0\GestionEmpleados.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\bin\Debug\net6.0\GestionEmpleados.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\obj\Debug\net6.0\refint\GestionEmpleados.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.genruntimeconfig.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Quinto Semestre\Programacion Web Avanzada\Primer Parcial\GestionEmpleados\obj\Debug\net6.0\ref\GestionEmpleados.dll
