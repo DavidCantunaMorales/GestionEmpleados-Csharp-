@@ -2,7 +2,7 @@
 Este proyecto es una aplicación de Programación Orientada a Objetos que gestiona información sobre una empresa con sus empleados y gerentes.
 ## Instalación
 ### Requisitos Previos
-Asegúrate de tener instalado [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/) en tu máquina.
+Asegúrate de tener instalado [Microsoft Visual Studio 2022 Community](https://visualstudio.microsoft.com/) en tu máquina.
 En el Visual Studio Installer agrega el paquete **Desarrolló de escritorio de .NET** e instalalo.  
 ### Clonar el Repositorio
 ```bash
